@@ -3,7 +3,7 @@ date: 2015-03-30 17:52:57
 tags: Java Developer
 categories: Indore
 ---
- ######JOB DESCRIPTION
+ ######DESCRIPTION
 
  47Billion is looking for a Java Developer with extensive experience in Core Java and REST based Development.
 

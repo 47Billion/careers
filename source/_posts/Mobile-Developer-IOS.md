@@ -4,7 +4,7 @@ tags: IOS Developer
 categories: Indore
 ---
 
-######JOB DESCRIPTION
+######DESCRIPTION
 Develop iOS Project/Library, Providing features, enhancements. Collaborate with talented engineers and product managers to design and implement new features. Work with QA to ensure compatibility with the ever-growing set of mobile devices in the market. Oversee the development of reliable software in rapid iteration cycles.
 
 ######REQUIREMENTS

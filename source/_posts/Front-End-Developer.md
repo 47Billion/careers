@@ -4,7 +4,7 @@ tags: Front End Developer
 categories: Indore
 ---
 
-######JOB DESCRIPTION
+######DESCRIPTION
 * Code everything that is user facing using front end technologies and frameworks.
 * Work with team and Senior Design UX to ensure design alignment with overall creative and brand strategy.
 * Maintain day-to-day management of assigned projects and prioritize workload to ensure all project deadlines are met.
