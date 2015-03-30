@@ -1,0 +1,36 @@
+@media mq-btab
+  #sidebar
+    float: left
+  #main
+    width: 64%
+    padding: 25px 25px 0 25px
+    float: left
+  #header
+    margin: 0px
+    .logo
+      margin: 18px 0px 0 25px
+    #main-nav
+      z-index: 1
+      opacity: 1
+      transition: opacity 0.2s ease-in
+      &.off
+        opacity: 0
+    #sub-nav
+      position: absolute
+      right: 25px
+      z-index: 1
+    #nav-search-btn
+      display: none
+    #search-form-wrap
+      .search-form-input
+        transition: 0.2s ease-in
+        width: 0px
+        opacity: 0
+      &.on
+        .search-form-input
+          width: search-form-input-width
+          opacity: 1
+  #footer
+    margin-top: 0px
+  #footer-info
+    padding-right: 30px

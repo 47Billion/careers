@@ -1,0 +1,39 @@
+@media mq-tablet
+  #main
+    width: 90%
+    padding: 25px 25px 0 25px
+  #header
+    margin: 0px
+    .logo
+      margin: 18px 0px 0 0px
+    #main-nav
+      z-index: 1
+      opacity: 1
+      transition: opacity 0.2s ease-in
+      &.off
+        opacity: 0
+    #sub-nav
+      position: absolute
+      right: 25px
+      z-index: 1
+    #nav-search-btn
+      display: none
+    #search-form-wrap
+      .search-form-input
+        transition: 0.2s ease-in
+        width: 0px
+        opacity: 0
+      &.on
+        .search-form-input
+          width: search-form-input-width
+          opacity: 1
+  #footer
+    margin-top: 0px
+  #footer-info
+    text-align: center
+  #sidebar
+    display: none
+  .slicknav_menu
+    display: block
+  .slicknav_btn
+    margin: 30px 5px 6px !important
